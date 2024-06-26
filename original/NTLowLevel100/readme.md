@@ -72,3 +72,5 @@ tested. Give it a try - it works!
 --
 Colin - using XanaNews HTTP Transport
 e-mail :co...@wilsonc.demon.co.uk
+
+https://groups.google.com/g/borland.public.delphi.nativeapi.win32/c/wpKBif0JMZM
